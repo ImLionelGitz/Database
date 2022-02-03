@@ -1,0 +1,9 @@
+{
+    "app1": {
+        "name": "???",
+        "description": "?",
+        "icon": "../assets/iconplaceholder.jpg",
+        "thumbnails": [],
+        "available": {}
+    }
+}
