@@ -1,7 +1,7 @@
 {
-  "vid1": {
-    'name': 'lol',
-    'thumbnail': '/logo.png',
-    'playlist': '#'
-  }
+    "vid1": {
+        "name": "???",
+        "thumbnail": "/logo.png",
+        "playlist": "#"
+    }
 }
