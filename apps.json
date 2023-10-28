@@ -2,6 +2,6 @@
     "app1": {
         "name": "???",
         "icon": "/logo.png",
-        "available": []
+        "available": ["APKPURE"]
     }
 }
