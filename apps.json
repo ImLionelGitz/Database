@@ -4,5 +4,11 @@
         "icon": "/logo.png",
         "available": ["APKPURE"],
         "urls": ["#"]
+    },
+    "app2": {
+        "name": "lol",
+        "icon": "/logo.png",
+        "available": ["ROBLOX"],
+        "urls": ["#"]
     }
 }
