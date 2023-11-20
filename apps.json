@@ -1,13 +1,13 @@
 {
     "app1": {
         "name": "???",
-        "icon": "/logo.png",
+        "icon": "logo",
         "available": ["APKPURE"],
         "urls": ["#"]
     },
     "app2": {
         "name": "lol",
-        "icon": "/logo.png",
+        "icon": "logo",
         "available": ["ROBLOX"],
         "urls": ["#"]
     }
