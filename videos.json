@@ -1,21 +1,21 @@
 {
     "vid1": {
         "name": "???",
-        "thumbnail": "/logo.png",
+        "thumbnail": "logo",
         "playlist": "#",
         "activity": "active"
     },
 
     "vid2": {
         "name": "???",
-        "thumbnail": "/logo.png",
+        "thumbnail": "logo",
         "playlist": "#",
         "activity": "semi-active"
     },
 
     "vid3": {
         "name": "???",
-        "thumbnail": "/logo.png",
+        "thumbnail": "logo",
         "playlist": "#",
         "activity": "active"
     }
