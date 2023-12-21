@@ -1,8 +1,8 @@
 {
     "app1": {
-        "name": "???",
-        "icon": "logo",
+        "name": "Ask 8-Ball!",
+        "icon": "https://drive.google.com/uc?id=1_RC_YcOTZ_0ImNuTnLuY1kJO3m9JE0m2",
         "available": ["ROBLOX"],
-        "urls": [" https://drive.google.com/uc?id=1_RC_YcOTZ_0ImNuTnLuY1kJO3m9JE0m2"]
+        "urls": ["https://www.roblox.com/games/15694058208/RELEASE-Ask-8-Ball"]
     }
 }
