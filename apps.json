@@ -2,13 +2,7 @@
     "app1": {
         "name": "???",
         "icon": "logo",
-        "available": ["APKPURE"],
-        "urls": ["#"]
-    },
-    "app2": {
-        "name": "lol",
-        "icon": "logo",
         "available": ["ROBLOX"],
-        "urls": ["#"]
+        "urls": [" https://drive.google.com/uc?id=1_RC_YcOTZ_0ImNuTnLuY1kJO3m9JE0m2"]
     }
 }
