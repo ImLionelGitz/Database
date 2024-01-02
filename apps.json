@@ -4,5 +4,12 @@
         "icon": "https://drive.google.com/uc?id=1_RC_YcOTZ_0ImNuTnLuY1kJO3m9JE0m2",
         "available": ["ROBLOX"],
         "urls": ["https://www.roblox.com/games/15694058208/RELEASE-Ask-8-Ball"]
+    },
+
+    "app2": {
+        "name": "Leo's Hard DCO",
+        "icon": "https://drive.google.com/uc?id=1WTNJTQGom0_YhX3tOX3WZqUfCJQj-iVB",
+        "available": ["ROBLOX"],
+        "urls": ["https://www.roblox.com/games/15556995224/BETA-Leos-Hard-Difficulty-Chart-Obby"]
     }
 }
